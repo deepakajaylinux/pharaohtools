@@ -1,0 +1,17 @@
+site_name: http://pharaohtools.readthedocs.org
+include_search: true
+theme_dir: ./theme/mkdocs/
+theme_center_lead: false
+pages:
+- [index.md, Home]
+- [pharaohtools/cleopatra/synopsis.md, Synopsis]
+- [pharaohtools/cleopatra/installation.md, Installation]
+- [pharaohtools/cleopatra/cleopatramodules.md , Cleopatra Modules]
+- [pharaohtools/cleopatra/howtouse.md, How To Use]
+- [pharaohtools/phlagrant/synopsis.md, Synopsis]
+- [pharaohtools/phlagrant/installation.md , Installation]
+- [pharaohtools/phlagrant/modules.md , Phlagrant Modules]
+- [pharaohtools/phlagrant/howtouse.md , How To Use]
+- [pharaohtools/phlagrant/example.md  , Example]
+- ["Getting Started.md", "Getting Started"]
+theme:  ghostwriter
