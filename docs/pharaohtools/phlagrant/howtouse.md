@@ -59,9 +59,9 @@ The below screenshot explains you how the help command is used to explain the mo
 
     kevells@Corp:/#phlagrant AutoSSH help
 
-  ******************************
+    ******************************
     Pharaoh Tools - Phlagrant
-  ******************************
+    ******************************
 
 
     This command allows you to autoSSH a phlagrant box
