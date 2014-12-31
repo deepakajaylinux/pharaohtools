@@ -6,26 +6,18 @@ Before installing the Cleopatra to your machine, ensure whether git and php5 exi
 if not follow as given below,
 	command to install git and php5 in ubuntu:
 git:
----
-	
 	apt-get install git
 
 php:
-----
-	
 	apt-get install php
 
 command to install git and php5 in cent OS:
 -------------------------------------------
 
 git:
-----
-	
 	yum install git
 
 php:
-----
-	
 	yum install php.
 
 after completion of git and php5 installation, let's see how to install the Cleopatra in your machine.
