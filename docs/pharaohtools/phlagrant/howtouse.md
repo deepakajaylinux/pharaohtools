@@ -14,7 +14,7 @@ As shown in the below screenshot, you will get the display of all the modules av
 
   ******************************
   Pharaoh Tools - Phlagrant
-  ******************************
+  
 
 
   Phlagrant by Golden Contact Computing
