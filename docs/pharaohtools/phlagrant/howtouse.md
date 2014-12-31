@@ -9,6 +9,7 @@ if you simply type the following command,
 
 As shown in the below screenshot, you will get the display of all the modules available under this tool.
 
+  
   kevells@Corp:/# phlagrant 
 
   ******************************
@@ -64,9 +65,9 @@ The below screenshot explains you how the help command is used to explain the mo
   ******************************
 
 
-    This command allows you to autoSSH a phlagrant box
+  This command allows you to autoSSH a phlagrant box
 
-    AutoSSH, auto-ssh, autossh, ssh, SSH
+  AutoSSH, auto-ssh, autossh, ssh, SSH
 
         - cli
         Open an SSH Cli to your Phlagrant Box
