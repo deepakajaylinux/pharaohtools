@@ -1,12 +1,15 @@
 Requirements:
+------------
 
 If you wish to use the Phlagrant, ensure whether the Virual box is installed in your machine, along with the Virtual box guest additions functionality
 
 Code for installing virtual box:
+-------------------------------
 
 	sudo cleopatra virtualbox install --yes --guess --with-guest-additions
 
 Installation:
+-------------
 
 There is two possible ways to install the Phlagrant tool to your machine:
 
@@ -14,6 +17,7 @@ There is two possible ways to install the Phlagrant tool to your machine:
 2)Installing Phlagrant alone
 
 Installation via Cleopatra:
+---------------------------
 
 if you have Cleopatra tool in your machine, then it's simple to install the phlagrant by using the code as given below
 
