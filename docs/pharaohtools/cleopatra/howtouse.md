@@ -8,7 +8,7 @@ this command will list all the names of the modules that are available under Cle
 here, the screenshot denotes the display of all modules available under Cleopatra.
 
 
-![Screenshot](img/cleopatra_help.png)
+!(img/cleopatra_help.png)
 
 The Help command:
 If you want to know the purpose of a particular module, just type the command as follows:
