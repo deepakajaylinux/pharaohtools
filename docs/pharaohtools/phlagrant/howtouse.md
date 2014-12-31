@@ -57,7 +57,7 @@ It's simple to use the help command,
 This command helps you how the particular modules works, and also about what are the actions it can perform.
 The below screenshot explains you how the help command is used to explain the module Box.
 
-    root@deepak-Inspiron-N4010:~# phlagrant AutoSSH help
+    kevells@Corp:/#phlagrant AutoSSH help
 
   ******************************
     Pharaoh Tools - Phlagrant
