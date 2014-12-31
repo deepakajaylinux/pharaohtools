@@ -9,43 +9,42 @@ if you simply type the following command,
 
 As shown in the below screenshot, you will get the display of all the modules available under this tool.
 
+     kevells@Corp:/# phlagrant 
+
+    ******************************
+    Pharaoh Tools - Phlagrant
   
-  kevells@Corp:/# phlagrant 
-
-  ******************************
-  Pharaoh Tools - Phlagrant
-  
 
 
-  Phlagrant by Golden Contact Computing
-  -------------------
-  
-  About:
-  -----------------
-  Phlagrant is for controlling Virtual Machines in Development Environments.
+    Phlagrant by Golden Contact Computing
+    -------------------
+      
+    About:
+    -----------------
+    Phlagrant is for controlling Virtual Machines in Development Environments.
+    
+    -------------------------------------------------------------
 
-  -------------------------------------------------------------
+    Available Commands:
+    ---------------------------------------
 
-  Available Commands:
-  ---------------------------------------
+    AutoSSH - AutoSSH - Use your Papyrus details to automatically SSH or SFTP into your Phlagrant box
+    Box - Box - Manage Base Boxes for Phlagrant
+    Destroy - Destroy - Stop a Phlagrant Box
+    Flirtify - Phlagrant Flirtify - Generate a Phalgrantfile
+    Halt - Halt - Stop a Phlagrant Box
+    Invoke - SSH Invocation Functions
+    PharaohTools - Pharaoh Tools Provisioner Integration
+    Provision - Provision - Stop a Phlagrant Box
+    Resume - Resume - Stop a Phlagrant Box
+    SFTP - SFTP Functionality
+    Shell - Shell Provisioner Integration
+    Status - Status - Stop a Phlagrant Box
+    SystemDetection - System Detection - Detect the Running Operating System
+    Up - Up - Create and Start a Phlagrant Box
+    Virtualbox - Virtualbox Provider Integration
 
-  AutoSSH - AutoSSH - Use your Papyrus details to automatically SSH or SFTP into your Phlagrant box
-  Box - Box - Manage Base Boxes for Phlagrant
-  Destroy - Destroy - Stop a Phlagrant Box
-  Flirtify - Phlagrant Flirtify - Generate a Phalgrantfile
-  Halt - Halt - Stop a Phlagrant Box
-  Invoke - SSH Invocation Functions
-  PharaohTools - Pharaoh Tools Provisioner Integration
-  Provision - Provision - Stop a Phlagrant Box
-  Resume - Resume - Stop a Phlagrant Box
-  SFTP - SFTP Functionality
-  Shell - Shell Provisioner Integration
-  Status - Status - Stop a Phlagrant Box
-  SystemDetection - System Detection - Detect the Running Operating System
-  Up - Up - Create and Start a Phlagrant Box
-  Virtualbox - Virtualbox Provider Integration
-
-  ******************************
+    ******************************
 
 
 Help command:
@@ -58,16 +57,16 @@ It's simple to use the help command,
 This command helps you how the particular modules works, and also about what are the actions it can perform.
 The below screenshot explains you how the help command is used to explain the module Box.
 
-  root@deepak-Inspiron-N4010:~# phlagrant AutoSSH help
+    root@deepak-Inspiron-N4010:~# phlagrant AutoSSH help
 
   ******************************
     Pharaoh Tools - Phlagrant
   ******************************
 
 
-  This command allows you to autoSSH a phlagrant box
+    This command allows you to autoSSH a phlagrant box
 
-  AutoSSH, auto-ssh, autossh, ssh, SSH
+    AutoSSH, auto-ssh, autossh, ssh, SSH
 
         - cli
         Open an SSH Cli to your Phlagrant Box
@@ -81,7 +80,7 @@ The below screenshot explains you how the help command is used to explain the mo
         SFTP Get a file from your Phlagrant Box
         example: phlagrant auto-ssh sftp-get --yes --guess --source=/path/to/source --target=/path/to/target
 
-  ------------------------------
-  End Help
-  ******************************
+    ------------------------------
+    End Help
+******************************
 
