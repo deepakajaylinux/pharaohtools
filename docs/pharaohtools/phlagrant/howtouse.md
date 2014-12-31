@@ -5,7 +5,7 @@ Here, let us see how to use the commands under the tool and its usage.
 
 if you simply type the following command,
 
-  phlagrant
+    phlagrant
 
 As shown in the below screenshot, you will get the display of all the modules available under this tool.
 
