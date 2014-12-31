@@ -4,7 +4,7 @@ theme_dir: ./theme/mkdocs/
 theme_center_lead: false
 pages:
 - [index.md, Home]
-- [pharaohtools/cleopatra/synopsis.md, Synopsis]
+- [pharaohtools/synopsis.md, Synopsis]
 - [pharaohtools/cleopatra/installation.md, Installation]
 - [pharaohtools/cleopatra/cleopatramodules.md , Cleopatra Modules]
 - [pharaohtools/cleopatra/howtouse.md, How To Use]
