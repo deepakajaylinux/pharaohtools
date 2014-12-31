@@ -1,3 +1,6 @@
+Available Modules:
+------------------
+
 DummyLinuxModule - Dummy Linux Module
 
 AWSCloudFormation - The AWS CloudFormation CLI Tools
