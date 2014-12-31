@@ -11,8 +11,8 @@ As shown in the below screenshot, you will get the display of all the modules av
 
      kevells@Corp:/# phlagrant 
 
-        ******************************
-        Pharaoh Tools - Phlagrant
+    ******************************
+    Pharaoh Tools - Phlagrant
   
 
 
