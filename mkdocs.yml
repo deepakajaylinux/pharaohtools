@@ -3,14 +3,14 @@ include_search: true
 theme_dir: ./theme/mkdocs/
 theme_center_lead: false
 pages:
-- [index.md, Home]
-- [pharaohtools/cleopatra/synopsis.md, Synopsis]
-- [pharaohtools/cleopatra/installation.md, Installation]
-- [pharaohtools/cleopatra/cleopatramodules.md , Cleopatra Modules]
-- [pharaohtools/cleopatra/howtouse.md, How To Use]
-- [pharaohtools/phlagrant/synopsis.md, Synopsis]
-- [pharaohtools/phlagrant/installation.md , Installation]
-- [pharaohtools/phlagrant/modules.md , Phlagrant Modules]
-- [pharaohtools/phlagrant/howtouse.md , How To Use]
-- [pharaohtools/phlagrant/example.md  , Example]
+- ['index.md', 'Home']
+- ['pharaohtools/cleopatra/synopsis.md', 'cleopatra', 'Synopsis']
+- ['pharaohtools/cleopatra/installation.md', 'cleopatra', 'Installation']
+- ['pharaohtools/cleopatra/cleopatramodules.md' , 'cleopatra', 'Cleopatra Modules']
+- ['pharaohtools/cleopatra/howtouse.md', 'cleopatra', 'How To Use']
+- ['pharaohtools/phlagrant/synopsis.md', 'phlagrant', 'Synopsis']
+- ['pharaohtools/phlagrant/installation.md', 'phlagrant', 'Installation']
+- ['pharaohtools/phlagrant/modules.md' , 'phlagrant', 'Phlagrant Modules']
+- ['pharaohtools/phlagrant/howtouse.md' , 'phlagrant', 'How To Use']
+- ['pharaohtools/phlagrant/example.md', 'phlagrant', 'Example']
 theme:  ghostwriter
